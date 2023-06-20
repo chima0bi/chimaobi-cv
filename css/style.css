@@ -1,0 +1,83 @@
+body{
+  background-color: rgb(3, 10, 22);
+  color:rgb(123, 200, 123);
+  font-family: Lucida Sans;
+  font-size: 19px;
+  background-position: 0px;
+  background-size: 480px;
+  padding: 10px;
+  margin: 0;
+}
+h1{
+  color: #FFA930;
+}
+h3{
+  color: #66BFBF;
+}
+hr{
+  border-color: #1E90FF;
+  border-style: dotted;
+  width: 8%;
+  border-width: 5px 0 0 0;
+}
+.star-color{
+  color: rgb(233, 233, 23);
+}
+[href]{
+  color: rgb(233, 23, 223);
+}
+input{
+  width: 200px;
+  height: 30px;
+  border-radius: 8px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: rgba(2, 70, 14, 1.0);
+  color: #FFA930;
+  font-size: 17px;
+  font-family: monospace;
+  background-color: rgba(70, 70, 70, 0.3);
+}
+[type="file"]{
+  text-align: center;
+  padding: 5px 0 0 5px;
+}
+.textarea{
+  color: #CCC;
+  background-color: rgba(70, 70, 70, 0.7);
+  border-radius: 5px;
+  border-style: none;
+  font-size: 18px;
+}
+
+.body-container {
+	padding: 5px 10px;
+}
+
+[href]{
+  color: #1E90FF;
+}
+[type="submit"]{
+  background-color: rgba(70, 70, 70, 0.3);
+  border-style: solid;
+  width: 13%;
+  border-radius: 5px;
+  font-size: 16px;
+}
+[value="Submit"]{
+  color: #FFA930;
+}
+.input-page-link{
+  color: #A0A0A0;
+}
+.footer{
+	border-radius: 10px;
+	color: whitesmoke;
+	font-family: 'Segoe UI' Sans-serif;
+	font-size: 18px;
+	line-height: 1px;
+	margin: 0 -10px;
+	height: auto;
+	/* border: 2px firebrick solid; */
+	padding: 100px 10px 0 10px;
+}
